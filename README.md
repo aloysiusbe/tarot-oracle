@@ -1,0 +1,2 @@
+# tarot-oracle
+app tarot
